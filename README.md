@@ -1,2 +1,2 @@
-# minesweap
+# minesweep
 in progress
